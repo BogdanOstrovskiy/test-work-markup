@@ -1,0 +1,31 @@
+$grey: #e5e5e5;
+$grey_light: #d0d6db;
+$grey_2: #A1A7B3;
+$grey_3: #ebedf0;
+$green: #17C22E;
+$light-green: #BEF527;
+
+$container-max-widths: (
+        sm: 540px,
+        md: 720px,
+        lg: 960px,
+        xl: 1370px
+) !default;
+
+$main-background-color: $grey;
+
+$tile-border-radius: 6px;
+$tile-border-color: $grey_light;
+
+$list-item-hover-bg: #f2f5fc;
+
+$secondary: $grey_3;
+
+$text-color-light: $grey_2;
+
+$scroll-bar-color: $grey_2;
+
+$h1-font-size: 28px;
+$h2-font-size: 24px;
+$h3-font-size: 14px;
+
